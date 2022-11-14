@@ -1,5 +1,6 @@
 # Este programa tem o intuito de calcular de forma simples a emissão de CO2 anual de uma empresa, sem considerar
 # a emissão nos processos produtivos.
+# Desenvolvido por Lucas da Mota Gemaque Leal (G011910) e Higor dos Santos França de Araújo (N904356), ambos da turma CC1Q13, como APS Unip.
 
 meta = float(input('Insira a meta anual de emissão de CO2 em Toneladas de CO²: '))
 resma = int(input('Quantas resmas de papel são utilizadas anualmente? (1 resma = 500 folhas) \n'))
